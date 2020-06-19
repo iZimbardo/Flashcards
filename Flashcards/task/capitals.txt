@@ -1,6 +1,15 @@
 France
 Paris
-3
+0
 Russia
 Moscow
-4
+0
+Ukraine
+Kyiv
+0
+United Kingdom
+London
+0
+United States
+Washington
+0
